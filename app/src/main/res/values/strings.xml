@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts with BottomSheet</string>
+    <string name="add_Contacts">Enter New Contact</string>
+</resources>
